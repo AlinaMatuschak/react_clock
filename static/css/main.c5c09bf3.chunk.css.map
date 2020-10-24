@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,EACE,qBAAsB,CACvB,KAGC,YAAa,CACd,KAGC,eAAgB,CAChB,WAAY","file":"main.c5c09bf3.chunk.css","sourcesContent":["* {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n  padding: 30px;\r\n}\r\n\r\n.App {\r\n  max-width: 400px;\r\n  margin: auto;\r\n}\r\n"]}
